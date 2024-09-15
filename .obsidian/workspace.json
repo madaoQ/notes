@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "JavaScript笔记.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -155,7 +155,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81b2ac4a1d3d37a7",
+  "active": "6718126f5d0fcd21",
   "lastOpenFiles": [
     "notes/JS笔记",
     "notes",
