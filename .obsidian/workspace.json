@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "e839505af86f9335",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa74958f56a0530c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6718126f5d0fcd21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript笔记.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe06db4e9752c8bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "10a79ee9a4f1969f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81b2ac4a1d3d37a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b444d24d2876361",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1bac7e2078f84ade",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65f74a69921f030e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab3bc736937c5f57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "205f47d8d3b43026",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JavaScript笔记.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d933fac412cd6dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JavaScript笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5c0fbadaf4d8a31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ed04c63e3812f0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JavaScript笔记.md"
+              }
+            }
+          },
+          {
+            "id": "678a91da4c332866",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "81b2ac4a1d3d37a7",
+  "lastOpenFiles": [
+    "notes/JS笔记",
+    "notes",
+    "JS笔记",
+    "未命名",
+    "JavaScript笔记.md"
+  ]
+}
